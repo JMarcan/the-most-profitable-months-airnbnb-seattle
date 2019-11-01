@@ -1,4 +1,5 @@
 ﻿# Data Science Blog Post – The most profitable months on AirBnB Seattle
+![Prices](avaibility.png)
 
 ## Project description
 
