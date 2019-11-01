@@ -40,8 +40,8 @@ In case that different dataset is used you might need to adjust data preprocessi
 
 The table above shows us that landlords responding early command higher prices for renting their houses.
 In comparision with landlords taking for response a 'few days or more':
-- 4% higher rent by landlords who respond 'within an hour'
-- 9% higher rent by landlords who respond 'within a few hours'
+- 4% higher rent commanded by landlords who respond 'within an hour'
+- 9% higher rent commanded by landlords who respond 'within a few hours'
 
 Assumption: Since 'price' represents listed data instead of true realized income the statement above is made with the assumption that the [axinom of rationality](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem) is valid and landlords set pricing in such a way that their income is maximized.
 
@@ -53,4 +53,4 @@ Assumption: Since 'price' represents listed data instead of true realized income
 The figure above shows us that the most profitable time for landlords (and the most expensive one for tenants) was the July followed by the August. In contrast, during the winter months are average prices the lowest.
 
 In conclusion, we can recommend to AirBnB landlords in Seattle to keep their houses rented during summer months. 
-In the contrast, visitors of Seattle can consider pospoting their visit to winter months. 
+In the contrast, visitors of Seattle can consider postponing their visit to winter months. 
