@@ -11,7 +11,7 @@ The project uses real-life data provided by AirBnB for Seattle city published on
 I completed this project as part of Udacity Data Science Nanodegree
 where my mission was to choose dataset and formulate 3 questions to answer based on the data. To find the solution I had to follow data science CRISP-DM process. For this project it was Business Understanding -> Data Understanding -> Data Preparation -> Evaluation.
 
-Business questions formulation follows my interest in data-drive decisions, digital platforms and sharing economy.
+Business questions formulation follows my interest in Data-Driven Decisions, Digital Platforms and Sharing Economy.
 
 ## Libraries used
 Python 3
