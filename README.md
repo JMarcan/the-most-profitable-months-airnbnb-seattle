@@ -52,4 +52,5 @@ Assumption: Since 'price' represents listed data instead of true realized income
 ![Prices](prices.png)
 The figure above shows us that the most profitable time for landlords (and the most expensive one for tenants) was the July followed by the August. In contrast, during the winter months are average prices the lowest.
 
-In conclusion, we can recommend to AirBnB landlords in Seattle to keep their houses rented during summer months. In the contrast, visitors of Seattle can consider pospoting their visit to winter months. 
+In conclusion, we can recommend to AirBnB landlords in Seattle to keep their houses rented during summer months. 
+In the contrast, visitors of Seattle can consider pospoting their visit to winter months. 
