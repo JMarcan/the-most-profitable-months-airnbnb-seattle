@@ -24,7 +24,7 @@ Python 3
 
 ## Usage
 The repository contains AirNbN Seattle data, so the code can be directly executed to reproduce the results.
-In case that different dataset would be used you might need to adjust data preprocessing before you can visualize results.
+In case that different dataset is used you might need to adjust data preprocessing before you can visualize results.
 
 ## Project outcomes
 ### Answer to Question 1: 
