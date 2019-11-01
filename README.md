@@ -3,9 +3,9 @@
 ## Project description
 
 The project uses real-life data provided by AirBnB for Seattle city published on [Kaggle](https://www.kaggle.com/airbnb/seattle/data) to answer the following questions:
-- 1. How can landlord increase his income by increasing his activity on AirBnB?
-- 2. When is the most profitable month to be landlord at AirBnB?
-- 3. When is the most profitable month to be tenant at AirBnB?
+1. How can landlord increase his income by increasing his activity on AirBnB?
+2. When is the most profitable month to be landlord at AirBnB?
+3. When is the most profitable month to be tenant at AirBnB?
 
 I completed this project as part of Udacity Data Science Nanodegree
 where my mission was to choose dataset and formulate 3 questions to answer based on the data. To find the solution I had to follow data science CRISP-DM process. For this project it was Business Understanding -> Data Understanding -> Data Preparation -> Evaluation.
