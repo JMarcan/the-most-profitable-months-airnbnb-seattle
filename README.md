@@ -46,4 +46,4 @@ Assumption: Since 'price' represents listed data instead of true realized income
 * Question 3: When is the most profitable to be tenant at AirBnB
 
 ![Prices](prices.png)
-The figure above shows us that the most profitable time for landlords (and the most expensive one for tenats) was the July followed by the August. In contrast, during the winter months are average prices the lowest.
+The figure above shows us that the most profitable time for landlords (and the most expensive one for tenants) was the July followed by the August. In contrast, during the winter months are average prices the lowest.
