@@ -22,6 +22,9 @@ Python 3
 - ‘Dataset\Airbnb_Seattle\listings.csv’ – contains overview of AirBnB’s listings ('id', 'price', 'host_response_time', 'host_response_rate)
 - ‘Dataset\Airbnb_Seattle\calendar.csv’ – contains overview of AirBnB’s prices in time ('listing_id', 'date', 'price', 'avaibility')
 
+## Usage
+The repository contains AirNbN Seattle data, so the code can be directly executed to reproduce the results.
+In case that different dataset would be used you might need to apply different data preprocessing before you can visualize results.
 
 ## Project outcomes
 ### Answer to Question 1: 
