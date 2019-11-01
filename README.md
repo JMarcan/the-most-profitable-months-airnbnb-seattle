@@ -42,8 +42,8 @@ In comparision with landlords taking for response a 'few days or more':
 Assumption: Since 'price' represents listed data instead of true realized income the statement above is made with the assumption that the [axinom of rationality](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem) is valid and landlords set pricing in such a way that their income is maximized.
 
 ### Answer to Question 2 & 3:
-* Question 2: When is the most profitable to be landlord at Airnbn
-* Question 3: When is the most profitable to be tenant at Airnbn
+* Question 2: When is the most profitable to be landlord at AirBnB
+* Question 3: When is the most profitable to be tenant at AirBnB
 
 [Prices](prices.png)
 The figure above shows us that the most profitable time for landlords (and the most expensive one for tenats) was the July followed by the August. In contrast, during the winter months are average prices the lowest.
