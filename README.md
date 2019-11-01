@@ -8,7 +8,7 @@ The project uses real-life data provided by AirBnB for Seattle city published on
 - 3. When is the most profitable month to be tenant at AirBnB?
 
 I completed this project as part of Udacity Data Science Nanodegree
-where my mission was to choose dataset and formulate 3 questions to answer based on the data. To find the solution I had to follow data science CRISP-DM process. For this project is was Business Understanding -> Data Understanding -> Data Preparation -> Evaluation.
+where my mission was to choose dataset and formulate 3 questions to answer based on the data. To find the solution I had to follow data science CRISP-DM process. For this project it was Business Understanding -> Data Understanding -> Data Preparation -> Evaluation.
 
 Business questions formulation follows my interest in travelling, digital platforms and sharing economy.
 
@@ -26,6 +26,13 @@ Python 3
 ## Project outcomes
 ### Answer to Question 1: 
 * Question 1: How can landlord increase his income by increasing his activity on AirBnB?
+
+| host_response_time | price | % |
+| --- | --- | --- |
+| a few days or more | 120.8\$ | 100% |
+| within a day | 122.1\$ | 101% |
+| within a few hours | 131.3\$ | 109% |
+| within an hour | 125.1\$ | 104% |
 
 The table above shows us that landlords responding early command higher prices for renting their houses.
 In comparision with landlords taking for response a 'few days or more':
