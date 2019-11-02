@@ -20,7 +20,7 @@ Python 3
 
 ## Files in the repository
 - ‘Code\The most profitable months on AirBnB Seattle.ipynb’ – contains Jupyter Notebook file with the source code
-- ‘Dataset\Airbnb_Seattle\listings.csv’ – contains overview of AirBnB’s listings ('id', 'price', 'host_response_time', 'host_response_rate)
+- ‘Dataset\Airbnb_Seattle\listings.csv’ – contains overview of AirBnB’s listings ('id', 'price', 'host_response_time')
 - ‘Dataset\Airbnb_Seattle\calendar.csv’ – contains overview of AirBnB’s prices in time ('listing_id', 'date', 'price', 'avaibility')
 
 ## Usage
