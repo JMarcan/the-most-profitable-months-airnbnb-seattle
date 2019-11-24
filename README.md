@@ -15,7 +15,8 @@ The questions I've raised follow my interest in Data-Driven Decisions, Digital P
 
 
 ## Usage
-The repository contains AirNbN Seattle data so the Jupyter Notebook in the folder 'Code' can be directly executed to reproduce the results.
+Execute the Jupyter Notebook in the folder 'Code' to reproduce the results. 
+The AirBnB Seattle data are part of the repository.
 
 ## Libraries used
 Python 3
