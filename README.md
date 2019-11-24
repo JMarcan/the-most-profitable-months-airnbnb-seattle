@@ -1,4 +1,4 @@
-﻿# Data Science Blog Post – The most profitable months on AirBnB Seattle
+﻿# Data Science Blog Post: The most profitable months on AirBnB Seattle
 ![Prices](avaibility.png)
 
 ## Project description
@@ -13,6 +13,10 @@ where my mission was to choose dataset and formulate 3 questions to answer based
 
 The questions I've raised follow my interest in Data-Driven Decisions, Digital Platforms and Sharing Economy.
 
+
+## Usage
+The repository contains AirNbN Seattle data so the Jupyter Notebook in the folder 'Code' can be directly executed to reproduce the results.
+
 ## Libraries used
 Python 3
 - pandas, matplotlib 
@@ -22,10 +26,6 @@ Python 3
 - ‘Code\The most profitable months on AirBnB Seattle.ipynb’ – contains Jupyter Notebook file with the source code
 - ‘Dataset\Airbnb_Seattle\listings.csv’ – contains overview of AirBnB’s listings ('id', 'price', 'host_response_time')
 - ‘Dataset\Airbnb_Seattle\calendar.csv’ – contains overview of AirBnB’s prices in time ('listing_id', 'date', 'price', 'avaibility')
-
-## Usage
-The repository contains AirNbN Seattle data, so the code can be directly executed to reproduce the results.
-In case that different dataset is used you might need to adjust data preprocessing before you can visualize results.
 
 ## Project outcomes
 ### Answer to Question 1: 
