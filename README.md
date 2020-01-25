@@ -49,9 +49,13 @@ Assumption: Since 'price' represents listed data instead of true realized income
 ### Answer to Question 2 & 3:
 * Question 2: When is the most profitable to be landlord at AirBnB
 * Question 3: When is the most profitable to be tenant at AirBnB
+* 
+Assumption: data in ‘calendar.csv’ contains past data of prices.
 
 ![Prices](prices.png)
 The figure above shows us that the most profitable time for landlords (and the most expensive one for tenants) was the July followed by the August. In contrast, during the winter months are average prices the lowest.
 
 In conclusion, we can recommend to AirBnB landlords in Seattle to keep their houses rented during summer months. 
 In the contrast, visitors of Seattle can consider postponing their visit to winter months. 
+
+You can read more about AirBnB data in my another project [Stories Hidden in AirBnB Data](https://github.com/JMarcan/stories_hidden_in_airbnb_data)
