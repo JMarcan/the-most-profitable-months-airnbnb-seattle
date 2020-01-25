@@ -49,7 +49,7 @@ Assumption: Since 'price' represents listed data instead of true realized income
 ### Answer to Question 2 & 3:
 * Question 2: When is the most profitable to be landlord at AirBnB
 * Question 3: When is the most profitable to be tenant at AirBnB
-* 
+ 
 Assumption: data in ‘calendar.csv’ contains past data of prices.
 
 ![Prices](prices.png)
